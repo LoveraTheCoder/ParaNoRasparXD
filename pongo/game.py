@@ -1,4 +1,4 @@
-#Pong creado por Ernesto Lovera y Daniela Villalobos
+#Pong creado por John Lovera Schultz y Ángela Mendez Alvarado
 import sys
 import pygame
 import random
